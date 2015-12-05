@@ -1,2 +1,2 @@
 # sample-contao-app
-just fucking around with Contao
+just messing around with Contao
